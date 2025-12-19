@@ -1,0 +1,16 @@
+{
+    "company": "Tech Solutions",
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jane",
+            "position": "Developer"
+        },
+        {
+            "id": 2,
+            "name": "Mike",
+            "position": "Designer"
+        }
+    ],
+    "location": "San Francisco"
+}
