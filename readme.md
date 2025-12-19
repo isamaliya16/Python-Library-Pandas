@@ -29,6 +29,6 @@ Requires **Python 3.9+**
 pip install pandas
 ```
 
-📄 [View Pandas](docs/pandas.pdf)
+📄 [View Pandas](pandas.pdf)
 ---
 ---
